@@ -3,16 +3,16 @@ Usage
 
 .. _installation:
 
-Installation
+Software Installation - Windows 
 ------------
 
-To use Lumache, first install it using pip:
+To install on windows, first copy the script below into powershell:
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Sample
 ----------------
 
 To retrieve a list of random ingredients,
