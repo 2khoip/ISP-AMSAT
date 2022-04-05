@@ -25,5 +25,12 @@ To create and interface with an antenna, you will need:
 Assembly
 --------
 
-First, start by ...
+First, start by connecting four of the smaller shafts to the long shaft at he bottom in a plus-sign pattern as shown in the picture below.
+
+
+Then, connect the other four shaft to the top of the long shaft in the same way. 
+
+
+Next take a drill with a drill bit of the same or slightly smaller diameter of your piano wire and drill holes 45 degrees in the end of the top four small shafts as seen in the photo.
+
 
