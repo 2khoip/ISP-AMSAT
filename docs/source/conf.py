@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'ISP-AMSAT/GOES'
-copyright = '2021, Pham'
+copyright = '2022, Pham'
 author = 'Pham'
 
 release = '0.1'
