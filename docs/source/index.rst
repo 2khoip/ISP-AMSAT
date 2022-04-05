@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Khoi's AMSAT documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This Documentation is a set of scripts to install various satellite imaging, decoding and piping softwares. It also contains a walkthrough guide on how to build your own dipole-dipole antennae and the results of it!
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
