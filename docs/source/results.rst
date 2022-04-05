@@ -1,5 +1,5 @@
 Results
-===
+====
 
 .. autosummary::
    :toctree: generated
