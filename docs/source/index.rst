@@ -16,5 +16,5 @@ Contents
 .. toctree::
 
    usage
-   results
    walkthrough
+   results
