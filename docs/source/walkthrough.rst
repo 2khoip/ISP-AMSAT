@@ -1,4 +1,4 @@
-Walkthrough
+Antennae Walkthrough
 ====
 
 .. _materials:
