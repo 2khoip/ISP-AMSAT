@@ -8,13 +8,13 @@ Hardware/Materials
 
 To create and interface with an antenna, you will need:
 
-* 1x shaft or pole, such as a 2x4 or pipe approximately 6' long
+* 1x shaft or pole, such as a 2x4 or PVC pipe approximately 6' long
 
-* 8x smaller shafts/poles, preferably not metallic/conductive approximately 2' long
+* 2x smaller poles, preferably not metallic/conductive 21" long
 
-* 8x 12-24" long piano wire
+* 8x 28" long piano wire
 
-* Coaxial cable (50 ohm)
+* 20' Coaxial cable (50 ohm)
 
 * Soldering Iron/Toolkit
 
@@ -27,9 +27,10 @@ To create and interface with an antenna, you will need:
 Assembly
 --------
 
-Essentially, we need to support the 6' shaft to be self supporting vetically, and attach dipoles on the sides offset from the center.
+First, drill two holes in the PVC/2x4 90 degrees apart in the same size as your smaller poles offset in height by the size of the hole as seen in the pictures below.
 
-First, attach two of the shafts on the bottom in a cross pattern as shown in the picture below.
+.. image:: hole.jpg
+   :scale: 25 %
 
 
 Then, connect the other four shaft to the top of the long shaft in the same way. 
