@@ -6,29 +6,11 @@ Usage
 Software Installation - Windows 
 ------------
 
-To install on windows, first copy the script below into powershell:
+To install on windows, first click this link to download this repo: `Download <https://github.com/KOIDABAWS/ISP-AMSAT/archive/refs/heads/main.zip>`_
 
-.. code-block:: console
+Then extract the files from the .zip file adn run the .bat file named AMSAT
 
-   (.venv) $ pip install lumache
+After all the files finish downloading, run the file downloaded named sdrsharp-installer.exe 
 
-Sample
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Then run the file in AMSAT named install-rtlsdr, and then the other two .exe files downloaded, making sure to follow any on screen instructions
 
