@@ -1,4 +1,4 @@
-Results
+Result
 ====
 .. image:: iberian-peninsula.jpg
    :alt: iberian peninsula pic
