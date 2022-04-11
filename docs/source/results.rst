@@ -1,7 +1,7 @@
 Results
 ====
 
-.. figure:: picture.png
+.. figure:: iberian-peninsula.png
    :scale: 50 %
-   :alt: signal loss error
-   This is the caption of the figure (a simple paragraph).
+   :alt: iberian peninsula pic
+   NOAA 18 Iberian Peninsula Monochrome
