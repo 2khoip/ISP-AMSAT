@@ -59,3 +59,4 @@ Then, cut the coax into 4 pieces, two 21" and two 42", and strip the ends of the
 .. image:: done.jpg
    :width: 50 %
 
+Then, just add a SMA connector to the end of the coax, and connect it to the RTL-SDR and plug it into your computer.
