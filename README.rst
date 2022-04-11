@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+AMSAT Tutorial for Phoenix ISP
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This GitHub repo contains a batch file for windows users to easily download Orbitron and SDR# as well as a tutorial about how to build and run your antennae.
