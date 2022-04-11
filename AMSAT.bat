@@ -1,0 +1,10 @@
+@echo off
+echo "Downloading Orbitron..."
+powershell -Command "Invoke-WebRequest http://www.stoff.pl/orbitron/files/orbitron.exe -Outfile orbitron-installer.exe"
+echo "Done!"
+echo "Downloading SDR#"
+powershell -Command "Invoke-WebRequest https://airspy.com/?ddownload=3130 -Outfile sdrsharp-installer.exe"
+echo "Done!"
+echo "Downloading WXtoIMG"
+powershell -Command "Invoke-WebRequest https://www.wxtoimgrestored.xyz/downloads-src/wxinst21011.exe -Outfile wx-installer.exe"
+echo "Done!"
